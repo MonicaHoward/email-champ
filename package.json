@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Monica Howard",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonicaHoward/email-champ.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MonicaHoward/email-champ/issues"
+  },
+  "homepage": "https://github.com/MonicaHoward/email-champ#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
