@@ -6,7 +6,6 @@
   "engines": {
     "node": "14.16.1",
     "npm": "6.14.12"
-  
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -23,6 +22,7 @@
   },
   "homepage": "https://github.com/MonicaHoward/email-champ#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "passport-google-oauth20": "^2.0.0"
   }
 }
